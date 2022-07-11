@@ -9,5 +9,6 @@ public class Main {
         DateFormat format = new SimpleDateFormat("HH:mm dd.MM.yyyy");
         Date date = new Date();
         System.out.println(format.format(date));
+        //blablabla
     }
 }
