@@ -1,4 +1,4 @@
-package com.skilbox.lesson1_6;
+package com.skillbox.lesson1_6;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

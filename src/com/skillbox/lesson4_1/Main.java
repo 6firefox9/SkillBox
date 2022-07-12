@@ -1,4 +1,4 @@
-package com.skilbox.lesson4_1;
+package com.skillbox.lesson4_1;
 
 
 public class Main {
